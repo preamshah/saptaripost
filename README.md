@@ -1,2 +1,0 @@
-# saptaripost
-news site
